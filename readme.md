@@ -35,22 +35,11 @@ ________________________________________________________________________________
 
 ## Install and Run
 
-### Prerequisites
-
-- Python 3.13
-- A Groq API key — get one free at [console.groq.com](https://console.groq.com/)
-
-### public repo
-https://github.com/deepeshagarwal150106/askData
-
-
-### public url
-https://askdata-6flrrbbzjcvrv3glr3lt3q.streamlit.app/
 
 ### Step 1 — Clone the repository
 
 ```bash
-git clone https://github.com/deepeshagarwal150106/askData
+git clone https://github.com/pushkark441/Talk-With-Data
 cd askData
 ```
 
