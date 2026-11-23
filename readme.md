@@ -343,5 +343,4 @@ The software is provided "AS IS", without warranties.
 
 Contributors are not liable for damages.
 
-END OF TERMS AND CONDITIONS#   T a l k W i t h D a t a  
- 
+END OF TERMS AND CONDITIONS#
